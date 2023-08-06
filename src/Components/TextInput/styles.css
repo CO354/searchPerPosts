@@ -1,5 +1,5 @@
-.inputFormat{
-    margin-top: 2rem;
-    padding: 10px 5px;
-    width: 100%;
+.text-input {
+  width: 100%;
+  font-size: 30px;
+  padding: 5px 10px;
 }
