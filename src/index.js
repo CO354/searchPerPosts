@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './styles/global-styles.css';
 
 import { Home } from './Templates/Home';
-
+//eslint-disable-next-line
 ReactDOM.render(
   <React.StrictMode>
     <Home />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('root'),
 );
